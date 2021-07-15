@@ -13,7 +13,6 @@
 
   <run_depend>simple_motion</run_depend>
   <run_depend>line_following</run_depend>
-  <run_depend>dance</run_depend>
   <run_depend>slam_demo</run_depend>
 
   <export>
